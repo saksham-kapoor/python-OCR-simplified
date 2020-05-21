@@ -4,6 +4,10 @@ This tutorial aims to teach you how to use existing resources like tesseract, cv
 
 _Tutorial written by Saksham Kapoor. Get in touch_ [here.](https://www.linkedin.com/in/saksham-kapoor/)
 
+## What We Will Accomplish
+
+![Final OCR System](https://github.com/saksham-kapoor/python_ocr_simplified/readme_images/final.jpg)
+
 ### Excited? Let's gooo!
 
 ## Prerequisites
