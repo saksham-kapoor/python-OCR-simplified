@@ -6,7 +6,7 @@ _Tutorial written by Saksham Kapoor. Get in touch_ [here.](https://www.linkedin.
 
 ## What We Will Accomplish
 
-![Final OCR System](https://github.com/saksham-kapoor/python_ocr_simplified/readme_images/final.jpg)
+![Final OCR System](https://raw.githubusercontent.com/saksham-kapoor/python_ocr_simplified/master/readme_images/final.jpg)
 
 ### Excited? Let's gooo!
 
