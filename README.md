@@ -1,8 +1,8 @@
 # Python OCR (Extracting URLs from images)
 
-### This tutorial aims to teach you how to use existing resources like tesseract, cv2, etc. to create a simple yet powerful OCR (optical character recognition system). We have added a new feature to the traditional OCR, i.e it can identify URLs in an image and also opens them in the web browser.
+This tutorial aims to teach you how to use existing resources like tesseract, cv2, etc. to create a simple yet powerful OCR (optical character recognition system). We have added a new feature to the traditional OCR, i.e it can identify URLs in an image and also opens them in the web browser.
 
-### _Tutorial written by Saksham Kapoor. Get in touch_ [here.](https://www.linkedin.com/in/saksham-kapoor/)
+_Tutorial written by Saksham Kapoor. Get in touch_ [here.](https://www.linkedin.com/in/saksham-kapoor/)
 
 ### Excited? Let's gooo!
 
