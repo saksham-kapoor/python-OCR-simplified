@@ -10,7 +10,7 @@ _Tutorial written by Saksham Kapoor. Get in touch_ [here.](https://www.linkedin.
 
 ### Moreover, Your links will automatically open in your default browser
 
-![Final OCR System Result](https://raw.githubusercontent.com/saksham-kapoor/python_ocr_simplified/master/readme_images/browser_result.png)
+![Final OCR System Result](https://raw.githubusercontent.com/saksham-kapoor/python_ocr_simplified/master/readme_images/browser_result.PNG)
 
 ### Excited? Let's gooo!
 
